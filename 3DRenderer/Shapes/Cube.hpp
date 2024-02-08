@@ -1,7 +1,6 @@
 #ifndef CUBE_HPP
 #define CUBE_HPP
 
-#include <SDL.h>
 #include <vector>
 
 class Cube
